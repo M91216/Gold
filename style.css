@@ -1,0 +1,21 @@
+/* write your CSS in here
+*/
+.ui-input-search {
+   
+   width: 230px;
+   margin-left:13px;
+          
+}
+
+.form-searchBtn{display: inline;}
+
+ul{margin-left: 13px;margin-right:13px;}
+
+.ui-listview { margin-left: 13px; margin-right:13px;}
+.ui-input-search {margin-left: 13px; margin-right:13px;}
+
+.ui-data-role-content{width:100px;}
+
+.ui-form {margin-left: 13px; margin-right:13px;}
+
+label.error {display:block; margin:10px 0; color: #cc0000}
