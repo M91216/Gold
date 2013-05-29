@@ -1,10 +1,9 @@
-
 $('#home').on('pageinit', function(){
 	//code needed for home page goes here
 });	
 
 var parseForm = function(data){
-	console.log(data);
+	
 };
 
 $('#newSession').on('pageinit', function(){
